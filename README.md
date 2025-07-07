@@ -30,7 +30,7 @@ This is a lightweight and responsive real-time word and character counter built 
 git clone https://github.com/CharlesFaye/characters-counter-app.git
 
 2. Navigate to the project folder:
-cd word-counter-app
+cd characters-counter-app
 
 3. Open the index.html file in your browser
 (Or launch with Live Server in VS Code)
